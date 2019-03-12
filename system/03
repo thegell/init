@@ -1,0 +1,2 @@
+In order to permanently modify the name of our Debian machine, we have to modify the file /etc/hosts with the name
+we want.

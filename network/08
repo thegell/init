@@ -1,0 +1,3 @@
+To find the provider for slash16.org, we use the command "whois" like so:
+whois slash16.org
+After using that command, we know that the provider for slash16.org is "AWS" (which is amazon).

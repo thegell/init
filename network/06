@@ -1,0 +1,3 @@
+/etc/resolv.conf allows you to get the IP address of a DNS server.
+There can be several DNS servers, you can manually add one with the following line:
+nameserver X.X.X.X

@@ -1,0 +1,1 @@
+the ~/.ssh/authorized_keys file allows us to check the RSA keys of systems that are authorized to connect via SSH.

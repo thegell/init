@@ -1,0 +1,2 @@
+pkill -u $1
+userdel -r $1

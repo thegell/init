@@ -1,0 +1,2 @@
+We can find the currently installed version of Debian if we execute the command
+"cat" on the /etc/debian_version file.

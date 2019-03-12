@@ -1,0 +1,2 @@
+#!/bin/sh
+ifconfig | grep inet | head -5 | tail -1 | awk '{print $2}'

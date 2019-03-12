@@ -1,0 +1,3 @@
+In order to reroute intra.42.fr to said IP, we have to:
+Open the /etc/hosts file, and add the IP like this:
+46.19.122.85		intra.42.fr
